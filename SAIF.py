@@ -1,9 +1,10 @@
 from os import path
 
-import os,base64,zlib,pip,urllib
-
-os.system('xdg-open https://www.facebook.com/9803563676op)
-
+import os,base64,zlib,pip,urllib,time
+os.system('git pull')
+time.sleep(2)
+os.system('xdg-open https://www.facebook.com/9803563676op')
+os.system('clear')
 print('\n\033[1;37m install modules...\n It will take some seconds...')
 
 try:
